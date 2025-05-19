@@ -73,7 +73,7 @@ To view installation and usage instructions specific to each branch build, be su
 var anyIsEntry = require( '@stdlib/array-base-assert-any-is-entry' );
 ```
 
-#### anyIsEntry( arr, property )
+#### anyIsEntry( arr, property, value )
 
 Tests whether at least one element in a provided array has a specified own property key-value pair.
 
