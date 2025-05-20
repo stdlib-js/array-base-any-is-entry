@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-19)
+## Unreleased (2025-05-20)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`99f515d`](https://github.com/stdlib-js/stdlib/commit/99f515d651fe793e13b1df6ff95f39200fad0ff1) - **docs:** update parameter types _(by Athan Reines)_
 -   [`02109aa`](https://github.com/stdlib-js/stdlib/commit/02109aa28a0c48a2d6b92de3423614204a39431e) - **chore:** address commit comments for commit `fbffea0` [(#7038)](https://github.com/stdlib-js/stdlib/pull/7038) _(by Sachin Raj, Philipp Burckhardt)_
 -   [`fbffea0`](https://github.com/stdlib-js/stdlib/commit/fbffea0a7be15b6013111fd0b613548d7c09a1b7) - **feat:** add `array/base/assert/any-is-entry` _(by Athan Reines)_
 
