@@ -1,4 +1,4 @@
-/**
+/*
 * @license Apache-2.0
 *
 * Copyright (c) 2025 The Stdlib Authors.
@@ -16,16 +16,22 @@
 * limitations under the License.
 */
 
-'use strict';
+// TypeScript Version: 4.1
+
+/// <reference types="https://cdn.jsdelivr.net/gh/stdlib-js/types@esm/index.d.ts"/>
+
+import { Collection, AccessorArrayLike } from '@stdlib/types/array';
+import { PropertyName } from '@stdlib/types/object';
 
 /**
-* Test whether at least one element in a provided array has a specified own property key-value pair.
+* Tests whether at least one element in a provided array has a specified own property key-value pair.
 *
-* @module @stdlib/array-base-assert-any-is-entry
+* @param arr - input array
+* @param prop - property
+* @param value - property value
+* @returns result
 *
 * @example
-* var anyIsEntry = require( '@stdlib/array-base-assert-any-is-entry' );
-*
 * var o1 = {
 *     'a': 1
 * };
@@ -45,12 +51,9 @@
 * bool = anyIsEntry( [ o1, o2, o3 ], 'd', 0 );
 * // returns false
 */
-
-// MODULES //
-
-var main = require( './main.js' );
+declare function anyIsEntry( arr: Collection<unknown> | AccessorArrayLike<unknown>, prop: PropertyName | number, value: unknown ): boolean;
 
 
 // EXPORTS //
 
-module.exports = main;
+export = anyIsEntry;
