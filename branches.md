@@ -38,19 +38,19 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/array/base/assert/any-is-entry"
-%% click B href "https://github.com/stdlib-js/array-base-assert-any-is-entry/tree/main"
-%% click C href "https://github.com/stdlib-js/array-base-assert-any-is-entry/tree/production"
-%% click D href "https://github.com/stdlib-js/array-base-assert-any-is-entry/tree/esm"
-%% click E href "https://github.com/stdlib-js/array-base-assert-any-is-entry/tree/deno"
-%% click F href "https://github.com/stdlib-js/array-base-assert-any-is-entry/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/array/base/any-is-entry"
+%% click B href "https://github.com/stdlib-js/array-base-any-is-entry/tree/main"
+%% click C href "https://github.com/stdlib-js/array-base-any-is-entry/tree/production"
+%% click D href "https://github.com/stdlib-js/array-base-any-is-entry/tree/esm"
+%% click E href "https://github.com/stdlib-js/array-base-any-is-entry/tree/deno"
+%% click F href "https://github.com/stdlib-js/array-base-any-is-entry/tree/umd"
 ```
 
-[stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/array/base/assert/any-is-entry
-[production-url]: https://github.com/stdlib-js/array-base-assert-any-is-entry/tree/production
-[deno-url]: https://github.com/stdlib-js/array-base-assert-any-is-entry/tree/deno
-[deno-readme]: https://github.com/stdlib-js/array-base-assert-any-is-entry/blob/deno/README.md
-[umd-url]: https://github.com/stdlib-js/array-base-assert-any-is-entry/tree/umd
-[umd-readme]: https://github.com/stdlib-js/array-base-assert-any-is-entry/blob/umd/README.md
-[esm-url]: https://github.com/stdlib-js/array-base-assert-any-is-entry/tree/esm
-[esm-readme]: https://github.com/stdlib-js/array-base-assert-any-is-entry/blob/esm/README.md
+[stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/array/base/any-is-entry
+[production-url]: https://github.com/stdlib-js/array-base-any-is-entry/tree/production
+[deno-url]: https://github.com/stdlib-js/array-base-any-is-entry/tree/deno
+[deno-readme]: https://github.com/stdlib-js/array-base-any-is-entry/blob/deno/README.md
+[umd-url]: https://github.com/stdlib-js/array-base-any-is-entry/tree/umd
+[umd-readme]: https://github.com/stdlib-js/array-base-any-is-entry/blob/umd/README.md
+[esm-url]: https://github.com/stdlib-js/array-base-any-is-entry/tree/esm
+[esm-readme]: https://github.com/stdlib-js/array-base-any-is-entry/blob/esm/README.md

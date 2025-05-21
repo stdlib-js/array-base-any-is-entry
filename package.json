@@ -1,5 +1,5 @@
 {
-  "name": "@stdlib/array-base-assert-any-is-entry",
+  "name": "@stdlib/array-base-any-is-entry",
   "version": "0.0.0",
   "description": "Test whether at least one element in a provided array has a specified own property key-value pair.",
   "license": "Apache-2.0",
@@ -31,7 +31,7 @@
   "homepage": "https://stdlib.io",
   "repository": {
     "type": "git",
-    "url": "git://github.com/stdlib-js/array-base-assert-any-is-entry.git"
+    "url": "git://github.com/stdlib-js/array-base-any-is-entry.git"
   },
   "bugs": {
     "url": "https://github.com/stdlib-js/stdlib/issues"
