@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-18)
+## Unreleased (2025-12-01)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`ea0d5a6`](https://github.com/stdlib-js/stdlib/commit/ea0d5a623b80a5963e7079cd58cf29e7b01b5d57) - **bench:** refactor to use string interpolation in `array/base/any-is-entry` [(#8663)](https://github.com/stdlib-js/stdlib/pull/8663) _(by Aman Singh)_
 -   [`1090b61`](https://github.com/stdlib-js/stdlib/commit/1090b61370d43c7224595f0038a086257fdb0113) - **feat:** add `array/base/any-is-entry` _(by Athan Reines)_
 
 </details>
@@ -34,8 +35,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Aman Singh
 -   Athan Reines
 
 </section>
